@@ -1,7 +1,7 @@
 ## Olá, me chamo Vitor! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Tenho 19 anos, moro em Poá/SP e sou Engenheiro de Software, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e Amo assistir animes e séries.
+Tenho 19 anos, moro em Poá/SP e sou **Engenheiro de Software**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
 
 #### Recomendaçoes
 * One Piece (Anime)
