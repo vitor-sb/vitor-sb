@@ -1,13 +1,12 @@
-## 👋 Olá, eu sou o Vitor!
+## Olá, me chamo Vitor! 
+### Bem vindo ao meu perfil GitHub 👋
 
-#### 👨‍💻 Engenheiro de Software Full Stack
-#### 🏡 Poá - São Paulo, Brasil
+Tenho 19 anos, moro em Poá/SP e sou Engenheiro de Software, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e Amo assistir animes e séries.
 
-
-## 💻 Contatos
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorssb/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.vitor.santos@outlook.com)
+#### Recomendaçoes
+* One Piece (Anime)
+* The Mentalist (Série)
+* Warzone (Jogo)
 
 ## 🚀 Stack
 #### Backend:
@@ -24,18 +23,6 @@ MySQL, Firebase Realtime Database (NoSQL)
 
 #### Estruturas, ferramentas e práticas:
 Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, GraphQL, gRPC, TDD, DDD, CI/CD, SOLID
-
-
-## 👨🏽 Sobre Mim
-
-Sou um Engenheiro de Software, Técnico em Desenvolvimento de Sistemas e Estudante Universitário, cursando Análise e Desenvolvimento de Sistemas.
-<br>Apaixonado por TI, super curioso e vivo buscando aprender coisas novas dentro da área.
-<br>Jogo vôlei e jogos online sempre que possível. Amo assistir animes e séries.
-
-#### Recomendaçoes
-* One Piece (Anime)
-* The Mentalist (Série)
-* Warzone (Jogo)
 
 ## 👨🏽‍🎓 Formação
 
@@ -55,3 +42,8 @@ Sou um Engenheiro de Software, Técnico em Desenvolvimento de Sistemas e Estudan
 * FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
 * Udemy, **Desenvolvimento Android e IOS com Flutter** *(67.5 horas, Maio de 2022)*
 * Udemy, **React Native: Desenvolva APPs Nativas para Android e IOS** (44.5 horas, Dezembro de 2021)
+
+## 💻 Contatos
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorssb/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.vitor.santos@outlook.com)
