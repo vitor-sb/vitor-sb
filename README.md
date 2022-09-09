@@ -35,12 +35,12 @@ Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, GraphQL, gR
 <br> Disciplinas: Linguagem, Trabalho e Tecnologia; Banco de Dados (**MySQL**); Análise e Período de Sistemas; Design Digital; Programação Web (**PHP**); Fundamentos da Informática; Técnicas de Programação; Programação e Algoritmos; Inglês Instrumental; Desenvolvimento de Sistemas (**C#** e **Java**); Internet e Protocolos; Programação de Aplicativos Mobile (**Xamarin/C#**); Sistemas Embarcados; Qualidade e Teste de Software; Ética e Cidadania Organizacional; Segurança de Sistemas de Informação.
 
 ## 🎖️ Certificados
-* FIAP NanoCourse, **Leadership Communication** *(40 horas, Maio de 2022)*
+* FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
 * FIAP NanoCourse,  **Java Fundamentos** *(60 horas, Julho de 2022)*
 * FIAP NanoCourse, **Gestão de Infraestrutura de TI** *(20 horas, Julho de 2022)*
 * FIAP NanoCourse, **DevOps & Agile Culture** *(60 horas, Junho de 2022)*
-* FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
 * Udemy, **Desenvolvimento Android e IOS com Flutter** *(67.5 horas, Maio de 2022)*
+* FIAP NanoCourse, **Leadership Communication** *(40 horas, Maio de 2022)*
 * Udemy, **React Native: Desenvolva APPs Nativas para Android e IOS** (44.5 horas, Dezembro de 2021)
 
 ## 💻 Contatos
