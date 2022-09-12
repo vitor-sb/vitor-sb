@@ -10,7 +10,7 @@ Tenho 19 anos, moro em Poá/SP e sou **Engenheiro de Software**, apaixonado pela
 
 ## 🚀 Stack
 #### Backend:
-Java, Kotlin, Spring Data, Spring Cloud, Spring Boot, JPA, Hibernate
+Java, Kotlin, Spring Data, Spring Cloud, Spring Boot, JPA, Hibernate, GraphQL, gRPC
 
 #### Frontend:
 JavaScript, React.js, JSP
@@ -22,7 +22,7 @@ Flutter, React Native
 MySQL, Firebase Realtime Database (NoSQL)
 
 #### Estruturas, ferramentas e práticas:
-Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, GraphQL, gRPC, TDD, DDD, CI/CD, SOLID
+Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, CI/CD, SOLID
 
 ## 👨🏽‍🎓 Formação
 
