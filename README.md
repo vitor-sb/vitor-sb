@@ -22,7 +22,7 @@ Flutter, React Native
 MySQL, Firebase Realtime Database (NoSQL)
 
 #### Estruturas, ferramentas e práticas:
-Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, CI/CD, SOLID
+Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, CI/CD, SOLID, Jenkins, Rancher
 
 ## 👨🏽‍🎓 Formação
 
