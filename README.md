@@ -10,10 +10,10 @@ Tenho 19 anos, moro em Poá/SP e sou **Engenheiro de Software**, apaixonado pela
 
 ## 🚀 Stack
 #### Backend:
-Java, Kotlin, Spring Data, Spring Cloud, Spring Boot, JPA, Hibernate,
+Java, Kotlin, Spring Data, Spring Cloud, Spring Boot, JPA, Hibernate
 
 #### Frontend:
-JavaScript, React.js
+JavaScript, React.js, JSP
 
 #### Mobile:
 Flutter, React Native
