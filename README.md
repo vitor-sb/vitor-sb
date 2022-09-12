@@ -34,7 +34,7 @@ Software Básico (**C#**); Redes e Segurança; Banco de Dados (**PostgreSQL**); 
 #### Disciplinas:
 Linguagem, Trabalho e Tecnologia; Banco de Dados (**MySQL**); Análise e Período de Sistemas; Design Digital; Programação Web (**PHP**); Fundamentos da Informática; Técnicas de Programação; Programação e Algoritmos; Inglês Instrumental; Desenvolvimento de Sistemas (**C#** e **Java**); Internet e Protocolos; Programação de Aplicativos Mobile (**Xamarin/C#**); Sistemas Embarcados; Qualidade e Teste de Software; Ética e Cidadania Organizacional; Segurança de Sistemas de Informação.
 #### TCC:
-Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em Ionic 5, Angular, React Native, MySQL e com serviço de autenticação via Firebase. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
+Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em **Ionic 5**, **Angular**, **React Native**, **MySQL** e com serviço de autenticação via **Firebase Authentication**. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
 
 ## 🎖️ Certificados
 * FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
