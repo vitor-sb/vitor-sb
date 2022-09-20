@@ -46,6 +46,7 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 * Udemy, **React Native: Desenvolva APPs Nativas para Android e IOS** *(44.5 horas, Dezembro de 2021)*
 * Fundação Bradesco, **Fundamentos de TI: Hardware e Software** *(15 horas, Março de 2019)*
 * Fundação Bradesco, **Sistemas Operacionais - Conceitos Básicos** *(5 horas, Março de 2019)*
+* NovaMicroway, **Excel 2016 Avançado** *(28 horas, Outubro de 2018)*
 * SENAI, **Auxiliar Administrativo** *(60 horas, Julho de 2018)*
 * SENAI, **Informática Básica** *(80 horas, Abril de 2018)*
 
