@@ -61,11 +61,12 @@ Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, C
 Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em **Ionic 5**, **Angular**, **React Native**, **MySQL** e com serviço de autenticação via **Firebase Authentication**. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
 
 ## 🎖️ Certificados
+* Udemy, **JavaScript e TypeScript do básico ao avançado 2022** *(146 horas, 26 setembro de 2022)*
 * FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
 * FIAP NanoCourse,  **Java Fundamentos** *(60 horas, Julho de 2022)*
 * FIAP NanoCourse, **Gestão de Infraestrutura de TI** *(20 horas, Julho de 2022)*
 * FIAP NanoCourse, **DevOps & Agile Culture** *(60 horas, Junho de 2022)*
-* Udemy, **Desenvolvimento Android e IOS com Flutter** *(67.5 horas, Maio de 2022)*
+* Udemy, **Desenvolvimento Android e IOS com Flutter 2022** *(67.5 horas, Maio de 2022)*
 * FIAP NanoCourse, **Leadership Communication** *(40 horas, Maio de 2022)*
 * Udemy, **React Native: Desenvolva APPs Nativas para Android e IOS** *(44.5 horas, Dezembro de 2021)*
 * Fundação Bradesco, **Fundamentos de TI: Hardware e Software** *(15 horas, Março de 2019)*
