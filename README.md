@@ -65,7 +65,7 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 * FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
 * The Developer's Conference, **Trilha Microservices** *(8 horas, Agosto de 2022)*
 * The Developer's Conference, **Trilha Cloud** *(8 horas, Agosto de 2022)*
-* * The Developer's Conference, **Trilha Liderança Técnica** *(8 horas, Agosto de 2022)*
+* The Developer's Conference, **Trilha Liderança Técnica** *(8 horas, Agosto de 2022)*
 * FIAP NanoCourse,  **Java Fundamentos** *(60 horas, Julho de 2022)*
 * FIAP NanoCourse, **Gestão de Infraestrutura de TI** *(20 horas, Julho de 2022)*
 * FIAP NanoCourse, **DevOps & Agile Culture** *(60 horas, Junho de 2022)*
