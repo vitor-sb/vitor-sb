@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Tenho 19 anos, moro em Poá/SP e sou **Engenheiro de Software**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
+Tenho 19 anos, moro em Poá e sou **Engenheiro de Software**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
 
 #### Recomendaçoes
 * One Piece (Anime)
