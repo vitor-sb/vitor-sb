@@ -18,7 +18,7 @@ JavaScript, React.js, JSP, JSF
 Flutter, React Native
 
 #### Database:
-MySQL, Firebase Realtime Database (NoSQL)
+MySQL, Firebase Realtime Database, MongoDB
 
 #### Estruturas, ferramentas e práticas:
 Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, CI/CD, SOLID, Jenkins, Rancher
