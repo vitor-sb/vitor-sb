@@ -82,6 +82,3 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 ##💻 Contatos
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sb/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.vitor.santos@outlook.com)
-
-<br/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitor-sb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
