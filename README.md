@@ -79,7 +79,15 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 * SENAI, **Auxiliar Administrativo** *(60 horas, Julho de 2018)*
 * SENAI, **Informática Básica** *(80 horas, Abril de 2018)*
 
-## 💻 Contatos
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sb/)
+<h2 align="center">💻 Contatos</h2>
+<div align="center">
+  [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sb/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.vitor.santos@outlook.com)
+</div>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitor-sb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitor-sb&layout=compact&langs_count=8&theme=radical"/>
+<div>	
+</div>
+
