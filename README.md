@@ -25,7 +25,7 @@ Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, C
 
 ## 👨🏽‍🎓 Formação
 
-### Tecnólogo em Análise e Desenvolvimento de Sistemas  *🚧 Cursando 🚧*
+### Tecnólogo em Análise e Desenvolvimento de Sistemas *(2021 - 2022)* 
 #### Disciplinas:
 * Software Básico (**C#**)
 * Redes e Segurança
@@ -82,7 +82,8 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 ## 📚 Livros lidos
 * Robert T. Kiyosaki, **Pai Rico, Pai Pobre** *(320 Páginas, Nota: 7.0)*
 * George S. Clason, **O homem mais rico da Babilônia** *(157 Páginas, Nota: 9.0)*
-* Maquiavel, **O Príncipe** *(125 Páginas)* *🚧 Lendo 🚧*
+* Maquiavel, **O Príncipe** *(125 Páginas, Nota: 8.0)*
+* Sun Tzu, **A Arte da Guerra** *(148 Páginas)* *🚧 Lendo 🚧*
 
 ## 💻 Contatos
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sb/)
