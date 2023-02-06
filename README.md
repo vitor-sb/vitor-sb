@@ -2,11 +2,6 @@
 
 Tenho 20 anos, moro em Poá/SP e sou **Engenheiro de Software**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
 
-#### Recomendaçoes
-* One Piece (Anime)
-* The Mentalist (Série)
-* Warzone (Jogo)
-
 ## 🚀 Stack
 #### Backend:
 Java, Kotlin, Spring Data, Spring Cloud, Spring Boot, JPA, EJB, Hibernate, GraphQL, gRPC, PHP
