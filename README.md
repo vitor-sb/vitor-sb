@@ -34,8 +34,7 @@ Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, C
 * Padrões de Projetos Orientados a Objetos (**Java**)
 
 #### TCC:
-Em meu Trabalho de Conclusão de Curso, 
-Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em **Ionic 5**, **Angular**, **React Native**, **MySQL** e com serviço de autenticação via **Firebase Authentication**. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
+Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo desenvolvimento do projeto com o objetivo de ser um ERP simplificado, com interfaces mais objetivas e intuitivas, desenvolvido em **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
 
 ### Técnico em Desenvolvimento de Sistemas *(2019 - 2020)*
 #### Disciplinas:
@@ -57,7 +56,7 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 * Segurança de Sistemas de Informação.
 
 #### TCC:
-Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo desenvolvimento do projeto com o objetivo de ser um ERP simplificado, com interfaces mais objetivas e intuitivas, desenvolvido em **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
+Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em **Ionic 5**, **Angular**, **React Native**, **MySQL** e com serviço de autenticação via **Firebase Authentication**. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
 
 ## 🎖️ Certificados
 * Data Science Academy, **Big Data Fundamentos 3.0** *(12 horas, Novembro de 2022)*
