@@ -34,7 +34,7 @@ Arquitetura de Microsserviços, Arquitetura Monolítica, Clean Code, TDD, DDD, C
 * Padrões de Projetos Orientados a Objetos (**Java**)
 
 #### TCC:
-Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo desenvolvimento do projeto com o objetivo de ser um ERP simplificado, com interfaces mais objetivas e intuitivas, desenvolvido em **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
+Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo desenvolvimento do projeto com o objetivo de ser um ERP simplificado, com interfaces mais objetivas e simplificadas, desenvolvido em **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
 
 ### Técnico em Desenvolvimento de Sistemas *(2019 - 2020)*
 #### Disciplinas:
