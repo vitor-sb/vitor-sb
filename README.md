@@ -78,10 +78,11 @@ Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um proje
 * SENAI, **Informática Básica** *(80 horas, Abril de 2018)*
 
 ## 📚 Livros lidos
-* Robert T. Kiyosaki, **Pai Rico, Pai Pobre** *(320 Páginas, Nota: 7.0)*
-* George S. Clason, **O homem mais rico da Babilônia** *(157 Páginas, Nota: 9.0)*
-* Maquiavel, **O Príncipe** *(125 Páginas, Nota: 8.0)*
-* Sun Tzu, **A Arte da Guerra** *(148 Páginas)* *🚧 Lendo 🚧*
+* Robert T. Kiyosaki, **Pai Rico, Pai Pobre** *(336 Páginas, Nota: 7/10)*
+* George S. Clason, **O homem mais rico da Babilônia** *(160 Páginas, Nota: 10/10)*
+* Maquiavel, **O Príncipe** *(130 Páginas, Nota: 8/10)*
+* Sun Tzu, **A Arte da Guerra** *(158 Páginas, Nota: 9/10)*
+* Dale Carnegie, **Como fazer amigos e influenciar pessoas** *(256 Páginas)* *🚧 Lendo 🚧*
 
 ## 💻 Contatos
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sb/)
