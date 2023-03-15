@@ -59,6 +59,7 @@ Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo 
 Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em **Ionic 5**, **Angular**, **React Native**, **MySQL** e com serviço de autenticação via **Firebase Authentication**. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
 
 ## 🎖️ Certificados
+* Alura, **GraphQL: construindo uma API com Apollo Server** *(6 horas, Novembro de 2022)*
 * Data Science Academy, **Big Data Fundamentos 3.0** *(12 horas, Novembro de 2022)*
 * Udemy, **JavaScript e TypeScript do básico ao avançado 2022** *(146 horas, Setembro de 2022)*
 * FIAP NanoCourse, **Cloud Fundamentals, Administration and Solution Architect** *(80 horas, Agosto de 2022)*
