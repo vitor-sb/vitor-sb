@@ -34,7 +34,7 @@ Arquitetura de Microsserviços, Arquitetura Monolítica, CI/CD, SOLID, Clean Cod
 * Padrões de Projetos Orientados a Objetos (**Java**)
 
 #### TCC:
-Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo desenvolvimento de um ERP simplificado, um sistema web com interfaces mais objetivas e simplificadas, desenvolvido em **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
+Em meu Projeto de Conclusão de Curso, fiz parte da equipe responsável pelo desenvolvimento de um ERP simplificado. Um sistema web projetado com interfaces mais objetivas e menos complexas, utilizando tecnologias como **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
 
 ### Técnico em Desenvolvimento de Sistemas *(2019 - 2020)*
 #### Disciplinas:
@@ -56,7 +56,7 @@ Em meu Projeto de Conclusão de Curso, fui um dos integrantes responsável pelo 
 * Segurança de Sistemas de Informação.
 
 #### TCC:
-Em meu Trabalho de Conclusão de Curso, fui Desenvolvedor Full Stack em um projeto de aplicativo marketplace para farmácias desenvolvido em **Ionic 5**, **Angular**, **React Native**, **MySQL** e com serviço de autenticação via **Firebase Authentication**. Seus principais objetivos eram exibir a disponibilidade de medicamentos nas farmácias mais próximas, bulas, preços e a localização das farmácias.
+Durante meu Trabalho de Conclusão de Curso, atuei como Desenvolvedor Full Stack em um projeto de um aplicativo marketplace voltado para farmácias. O aplicativo foi desenvolvido utilizando as tecnologias **Ionic 5**, **Angular**, **React Native**, **MySQL**, e contava com serviço de autenticação via **Firebase Authentication**. O principal objetivo do projeto era exibir a disponibilidade de medicamentos das farmácias mais próximas, além de fornecer informações como bulas, preços e localização das farmácias.
 
 ## 🎖️ Certificados
 * Alura, **GraphQL: integração de dados e relacionamentos** *(6 horas, Março de 2023)*
