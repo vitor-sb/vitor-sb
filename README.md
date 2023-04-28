@@ -79,13 +79,6 @@ Durante meu Trabalho de Conclusão de Curso, atuei como Desenvolvedor Full Stack
 * SENAI, **Auxiliar Administrativo** *(60 horas, Julho de 2018)*
 * SENAI, **Informática Básica** *(80 horas, Abril de 2018)*
 
-## 📚 Livros lidos
-* Robert T. Kiyosaki, **Pai Rico, Pai Pobre** *(336 Páginas, Nota: 7/10)*
-* George S. Clason, **O homem mais rico da Babilônia** *(160 Páginas, Nota: 10/10)*
-* Maquiavel, **O Príncipe** *(130 Páginas, Nota: 8/10)*
-* Sun Tzu, **A Arte da Guerra** *(158 Páginas, Nota: 9/10)*
-* Dale Carnegie, **Como fazer amigos e influenciar pessoas** *(256 Páginas)* *🚧 Lendo 🚧*
-
 ## 💻 Contatos
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sb/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.vitor.santos@outlook.com)
