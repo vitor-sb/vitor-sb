@@ -1,62 +1,12 @@
 ## Olá, bem vindo ao meu perfil GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Tenho 20 anos, moro em Poá/SP e sou **Engenheiro de Software**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
-
-## 🚀 Stack
-#### Backend:
-Java, Kotlin, Spring Framework, Spring Boot, JPA, EJB, Hibernate, GraphQL, gRPC, PHP, JUnit
-
-#### Frontend:
-JavaScript, React, Typescript, JSP, JSF
-
-#### Mobile:
-Flutter, React Native
-
-#### Database:
-MySQL, Firebase Realtime Database, MongoDB
-
-#### Estruturas, ferramentas e práticas:
-Arquitetura de Microsserviços, Arquitetura Monolítica, CI/CD, SOLID, Clean Code, Clean Architecture, TDD e DDD, Jenkins, Rancher
+Tenho 20 anos, moro em Poá/SP e sou **Engenheiro de Software Full Stack**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
 
 ## 👨🏽‍🎓 Formação
 
 ### Graduação Tecnológica em Análise e Desenvolvimento de Sistemas *(2021 - 2022)* 
-#### Disciplinas:
-* Software Básico (**C#**)
-* Redes e Segurança
-* Banco de Dados (**PostgreSQL**)
-* Lógica e Programação (**Java**)
-* Administração de Sistemas de Informação
-* Projeto de Software e Segurança da Informação
-* Implementação e Testes de Projetos de Software
-* Governança de TI
-* Análise e Implementação de Software (**Java**)
-* Padrões de Projetos Orientados a Objetos (**Java**)
-
-#### TCC:
-Em meu Projeto de Conclusão de Curso, fiz parte da equipe responsável pelo desenvolvimento de um ERP simplificado. Um sistema web projetado com interfaces mais objetivas e menos complexas, utilizando tecnologias como **ASP.NET**, **C#**, **Razor**, **Entity Framework** e **PostgreSQL**.
 
 ### Técnico em Desenvolvimento de Sistemas *(2019 - 2020)*
-#### Disciplinas:
-* Linguagem, Trabalho e Tecnologia
-* Banco de Dados (**MySQL**)
-* Análise e Período de Sistemas
-* Design Digital
-* Programação Web (**PHP**)
-* Fundamentos da Informática
-* Técnicas de Programação
-* Programação e Algoritmos
-* Inglês Instrumental
-* Desenvolvimento de Sistemas (**C#** e **Java**)
-* Internet e Protocolos
-* Programação de Aplicativos Mobile (**Xamarin/C#**)
-* Sistemas Embarcados
-* Qualidade e Teste de Software
-* Ética e Cidadania Organizacional
-* Segurança de Sistemas de Informação.
-
-#### TCC:
-Durante meu Trabalho de Conclusão de Curso, atuei como Desenvolvedor Full Stack em um projeto de um aplicativo marketplace voltado para farmácias. O aplicativo foi desenvolvido utilizando as tecnologias **Ionic 5**, **Angular**, **React Native**, **MySQL**, e contava com serviço de autenticação via **Firebase Authentication**. O principal objetivo do projeto era exibir a disponibilidade de medicamentos das farmácias mais próximas, além de fornecer informações como bulas, preços e localização das farmácias.
 
 ## 🎖️ Certificados
 * Alura, **GraphQL: integração de dados e relacionamentos** *(6 horas, Março de 2023)*
