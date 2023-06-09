@@ -9,6 +9,7 @@ Tenho 20 anos, moro em Poá/SP e sou **Engenheiro de Software Full Stack**, apai
 ### Técnico em Desenvolvimento de Sistemas *(2019 - 2020)*
 
 ## 🎖️ Certificados
+* Alura, **Node.js: criptografia e tokens JWT** *(10 horas, Junho de 2023)*
 * Alura, **GraphQL: integração de dados e relacionamentos** *(6 horas, Março de 2023)*
 * Alura, **GraphQL: construindo uma API com Apollo Server** *(6 horas, Novembro de 2022)*
 * Data Science Academy, **Big Data Fundamentos 3.0** *(12 horas, Novembro de 2022)*
