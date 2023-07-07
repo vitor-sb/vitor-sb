@@ -13,11 +13,11 @@ Tenho 20 anos, moro em Poá - SP e sou **Engenheiro de Software Full Stack**, ap
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Frontend:
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### SGBD:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,6 +38,7 @@ Tenho 20 anos, moro em Poá - SP e sou **Engenheiro de Software Full Stack**, ap
 
 ## 🎖️ Certificados
 * Alura, **Node.js: criptografia e tokens JWT** *(10 horas, Junho de 2023)*
+* Alura, **SASS: CSS sintaticamente espetacular** *(8 horas, Junho de 2023)*
 * Alura, **GraphQL: integração de dados e relacionamentos** *(6 horas, Março de 2023)*
 * Alura, **GraphQL: construindo uma API com Apollo Server** *(6 horas, Novembro de 2022)*
 * Data Science Academy, **Big Data Fundamentos 3.0** *(12 horas, Novembro de 2022)*
