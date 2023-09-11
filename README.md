@@ -37,6 +37,7 @@ Tenho 20 anos, moro em Poá - SP e sou **Engenheiro de Software Full Stack**, ap
 
 
 ## 🎖️ Certificados
+* Alura, **TDD e Java: testes automatizados com JUnit** *(8 horas, Setembro de 2023)*
 * Alura, **Node.js: criptografia e tokens JWT** *(10 horas, Junho de 2023)*
 * Alura, **SASS: CSS sintaticamente espetacular** *(8 horas, Junho de 2023)*
 * Alura, **GraphQL: integração de dados e relacionamentos** *(6 horas, Março de 2023)*
