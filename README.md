@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Tenho 20 anos, moro em Poá - SP e sou **Engenheiro de Software Full Stack**, apaixonado pela área de TI e amo aprender coisas novas. Também jogo jogos online, vôlei e amo assistir animes e séries.
+Sou **Engenheiro de Software Full Stack**, apaixonado pela área de TI e amo aprender coisas novas.
 
 ## 👨‍💻 Stacks
 ### Backend:
