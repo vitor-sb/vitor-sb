@@ -30,8 +30,6 @@ Sou **Engenheiro de Software Backend**, apaixonado pela área de TI e amo aprend
 * Alura, **API REST com Kotlin e Spring Boot: Camada de persistência** *(8 horas, Agosto de 2023)*
 * Alura, **TDD e Java: testes automatizados com JUnit** *(8 horas, Setembro de 2023)*
 * Alura, **Docker: criando e gerenciando containers** *(10 horas, Março de 2024)*
-* Alura, **TDD e Java: testes automatizados com JUnit** *(8 horas, Setembro de 2023)*
-* Alura, **Docker: criando e gerenciando containers** *(10 horas, Março de 2024)*
 * Alura, **Jenkins e Docker: Pipeline de entrega continua** *(12 horas, Abril de 2024)*
 * Alura, **Kubernetes: Pods, Services e ConfigMaps** *(8 horas, Abril de 2024)*
 
